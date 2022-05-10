@@ -13,7 +13,7 @@ html{
 }
 
 body{
-    background: url('../images/pattern-background-desktop.svg');
+    background: url('./images/pattern-background-desktop.svg');
     background-size: 100%;
     background-repeat: no-repeat;
     display: flex;
